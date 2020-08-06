@@ -1,2 +1,3 @@
 This is my first Component.Modified .
-Modifying Doc1 content atcentral Repository.
+Modifying Doc1 content at central Repository.
+Now changed in doc1
